@@ -1,4 +1,4 @@
-layout: page
+layout: full-page
 title: "Projects"
 permalink: /projects/
 
